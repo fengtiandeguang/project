@@ -1,0 +1,15 @@
+.p1{
+  width: 400px;
+  height:240px;
+}
+.btn-outline-primary{
+  background-color:transparent;
+  background-image:none;
+  border-radius:0;
+  margin:0.1rem;
+}
+.btn-outline-primary:hover{
+  background-color:transparent;
+  background-image:none;
+  border-color:#808080;
+}
